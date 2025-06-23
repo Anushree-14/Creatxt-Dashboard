@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,3 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # creaxt-dashboard
 dashboard demo 
 >>>>>>> a98e27ffd739429901e761cd140a0050c1b0c8b8
+=======
+# Creatxt-Dashboard
+Dashboard Demo for Creaxt live 
+>>>>>>> eda8a0ccf07f17df7e0ed4148259cd34c3cee0dc
